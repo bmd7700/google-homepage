@@ -1,0 +1,2 @@
+This project is desgned to help teach HTML/CSS by deconstructing and reconstructing an existing webpage. 
+In this case we will use the Google homepage. It is pure design with no functionality so don't get too excited 
